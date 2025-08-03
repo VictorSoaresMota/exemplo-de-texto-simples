@@ -1,0 +1,10 @@
+<!DOCTYPE html> 
+<html>
+<head>
+<title> Página simples </title> 
+</head> 
+<body>
+<h1> Exemplo de página simples </h1>
+<p><i> Texto em formato itálico</i></p>
+</body>
+</html>
